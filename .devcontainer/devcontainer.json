@@ -1,0 +1,15 @@
+{
+	"name": "ella-api",
+	"build": {
+		"dockerfile": "./Containerfile"
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"redhat.vscode-quarkus",
+				"vscjava.vscode-maven",
+				"redhat.vscode-yaml"	
+			]
+		}
+	}
+}

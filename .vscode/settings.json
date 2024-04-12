@@ -1,0 +1,12 @@
+{
+    "files.eol": "\r\n",
+    "files.encoding": "utf8",
+    "editor.useTabStops": false,
+    "[java]": {
+        "editor.tabSize": 4,
+    },
+    "[xml]": {
+        "editor.tabSize": 2,
+    },
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
